@@ -15,14 +15,14 @@
 ```python
 class JaiAkash:
     name        = "Jai Akash L J"
-    location    = "Trichy, Tamil Nadu, India"
+    location    = "Tiruchirappalli, Tamil Nadu, India"
     email       = "jaiakash222007@gmail.com"
     linkedin    = "https://linkedin.com/in/jaiakashlj"
     github      = "https://github.com/akxxh222"
 
     degrees     = [
         "B.Tech – Electronics & Computer Engineering @ VIT Chennai (CGPA: 8.42, 2028)",
-        "BS – Data Science & Applications @ IIT Madras"
+        "BS – Data Science & Applications @ IIT Madras (Expected 2028)"
     ]
 
     stack = {
@@ -33,7 +33,7 @@ class JaiAkash:
         "tools"      : ["Power BI", "Excel", "Git", "GitHub", "Google Colab", "VS Code"],
     }
 
-    currently_learning = ["Advanced Deep Learning", "MLOps", "Cloud Deployment (AWS/GCP)"]
+    currently_learning = ["AWS", "NLP", "Linux", "Edge AI"]
 
     def motto(self):
         return "Analytical thinking meets real-world problem solving."
@@ -84,36 +84,6 @@ class JaiAkash:
 
 ---
 
-## 🔥 Streak
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=akxxh222&theme=tokyonight&background=0d1117&hide_border=true&fire=70A5FD&ring=70A5FD&currStreakLabel=70A5FD)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-
-[![Jai Akash's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=akxxh222&theme=tokyo-night&bg_color=0d1117&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🏆 Trophy Wall
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=akxxh222&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## 💼 Work Experience
 
 <details>
@@ -147,10 +117,10 @@ class JaiAkash:
 
 <div align="center">
 
-| Degree | Institution | Status | CGPA |
-|:-------|:------------|:-------|:-----|
-| B.Tech – Electronics & Computer Engineering | Vellore Institute of Technology (VIT), Chennai | Expected 2028 | 8.42 |
-| BS – Data Science & Applications | Indian Institute of Technology (IIT), Madras | In Progress | — |
+| Degree | Institution | Status |
+|:-------|:------------|:-------|
+| B.Tech – Electronics & Computer Engineering | Vellore Institute of Technology (VIT), Chennai | Expected 2028 |
+| BS – Data Science & Applications | Indian Institute of Technology (IIT), Madras | Expected 2028 |
 
 </div>
 
@@ -158,10 +128,10 @@ class JaiAkash:
 
 ## 📚 Currently Learning
 
-- 🧠 Advanced Deep Learning architectures (ResNet, EfficientNet)
-- ☁️ Cloud deployment for ML models (AWS / GCP)
-- ⚙️ MLOps fundamentals — model versioning, CI/CD for ML pipelines
-- 🗄️ SQL optimisation & ETL pipeline design
+- ☁️ **AWS** — Cloud infrastructure & deployment for ML workloads
+- 🗣️ **NLP** — Natural Language Processing & transformer architectures
+- 🐧 **Linux** — Shell scripting, system administration & CLI tooling
+- 🤖 **Edge AI** — Deploying lightweight models on embedded & IoT devices
 
 ---
 
@@ -169,7 +139,7 @@ class JaiAkash:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/in.jaiakash)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jaiakashlj)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/akxxh222)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jaiakash222007@gmail.com)
 
