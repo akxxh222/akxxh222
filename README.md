@@ -15,9 +15,9 @@
 ```python
 class JaiAkash:
     name        = "Jai Akash L J"
-    location    = "Chennai, Tamil Nadu, India"
+    location    = "Trichy, Tamil Nadu, India"
     email       = "jaiakash222007@gmail.com"
-    linkedin    = "https://linkedin.com/in/in.jaiakash"
+    linkedin    = "https://linkedin.com/in/jaiakashlj"
     github      = "https://github.com/akxxh222"
 
     degrees     = [
@@ -26,11 +26,11 @@ class JaiAkash:
     ]
 
     stack = {
-        "languages"  : ["Python", "SQL", "Java", "C++"],
+        "languages"  : ["Python", "SQL", "Java", "C", "C++"],
         "ml_ai"      : ["TensorFlow", "Scikit-learn", "NumPy", "Pandas"],
         "web"        : ["Flask", "REST APIs"],
-        "databases"  : ["SQLite"],
-        "tools"      : ["Power BI", "Excel", "Git", "GitHub", "Google Colab"],
+        "databases"  : ["SQLite", "PostgreSQL"],
+        "tools"      : ["Power BI", "Excel", "Git", "GitHub", "Google Colab", "VS Code"],
     }
 
     currently_learning = ["Advanced Deep Learning", "MLOps", "Cloud Deployment (AWS/GCP)"]
